@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Jr.Software Engineer
 
 <!--
 **tammarut/tammarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
