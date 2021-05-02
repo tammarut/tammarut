@@ -1,3 +1,5 @@
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/tammarut/tammarut/main/assets/name-label.gif)
+
 ## 👋 &nbsp;Hey there! I'm Pleum
 
 ### 👨🏻‍💻 &nbsp;About Me
